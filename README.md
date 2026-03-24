@@ -15,9 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marwa-Adem&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one." — Mario Fusco
 
 <!--
 **Marwa-Adem/marwa-adem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
