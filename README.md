@@ -1,7 +1,11 @@
-## Hi there 👋
+# 👋 Hi there
 
-# 💫 About Me: I’m Marwa Adem, a junior Computer Science student at Minnesota State University. I’m passionate about software engineering and continuously trying to learn and build my skills in cybersecurity and artificial intelligence.
+## 💫 About Me
+I’m **Marwa Adem**, a junior Computer Science student at **Minnesota State University**.  
+I’m passionate about **software engineering** and continuously learrning and building my skills in **cybersecurity** and **artificial intelligence**.
 
+
+## 🚀 What I’m Up To
 🔭 I’m currently working on an AI welding chatbot & personal portfolio<br>👯 Open to collaborating on AI & web dev projects<br>🤝 Need help with ML models & deployment<br>🌱 Learning AI/ML and backend integration<br>💬 Ask me about Supabase, AI, and web dev<br>⚡ Fun fact: I love building real-world, impactful projects
 
 
