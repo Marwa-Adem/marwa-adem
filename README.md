@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 I’m **Marwa Adem**, a junior Computer Science student at **Minnesota State University**.  
-I’m passionate about **software engineering** and continuously learrning and building my skills in **cybersecurity** and **artificial intelligence**.
+I’m passionate about **software engineering** and continuously learning and building my skills in **cybersecurity** and **artificial intelligence**.
 
 
 ## 🚀 What I’m Up To
